@@ -1,0 +1,2 @@
+index_title=Nginx Web Server
+index_root=The root directory is $1.

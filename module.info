@@ -1,0 +1,4 @@
+desc=Nginx Webserver
+version=0.01
+os_support=*-linux
+category=servers
