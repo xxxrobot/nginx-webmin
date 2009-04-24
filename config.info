@@ -1,1 +1,2 @@
 root=Path to Nginx Root,0
+vhost_path=Path to Vhost config directory,0
